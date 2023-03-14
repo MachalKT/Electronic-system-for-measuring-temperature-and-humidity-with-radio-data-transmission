@@ -1,9 +1,6 @@
 /*
- * _PracaInzynierska_Nadajnik1v8.c
- *
- * Created: 10.01.2022 12:24:33
- * Author : Maciek
- */ 
+ * Sensor
+ */
 
 #define F_CPU 16000000UL
 

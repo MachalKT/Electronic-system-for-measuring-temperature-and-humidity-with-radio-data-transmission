@@ -1,9 +1,4 @@
-/*
- * rtc.c
- *
- * Created: 27.05.2022 15:23:02
- *  Author: Maciek
- */ 
+//RTC DS1307
 
 #include "rtc.h"
 #include "i2c.h"

@@ -1,15 +1,5 @@
 /*
- * _PracaInzynierska_Odbiornik_1.20.c
- *
- * Created: 06.02.2023 14:29:45
- * Author : Maciek
- */ 
-
-/*
- * _PracaInzynierska_Odbiornik_1.19.c
- *
- * Created: 01.02.2023 12:18:02
- * Author : Maciek
+ * Base station
  */ 
 
 #define F_CPU 16000000UL
