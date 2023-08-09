@@ -1,4 +1,4 @@
-#_Electronic system for measuring temperature and humidity with radio data transmission
+# _Electronic system for measuring temperature and humidity with radio data transmission
 
 ## Description
 
