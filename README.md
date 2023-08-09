@@ -1,6 +1,6 @@
 ## Electronic system for measuring temperature and humidity with radio data transmission
 
-fsdgsgfdgd
+ala ma kota a kota ma ale
 
 ### Description
 
