@@ -12,10 +12,21 @@ After obtaining data from the sensor, the data is saved in the EEPROM memory of 
 Base station:
 - microcontroller AVR ATmega328p
 - Real-Time clock DS1307
-- nRF24L01+
-- LCD 2x16
+- radio module nRF24L01+
+- display LCD 2x16
 
 Sensor:
 - microcontroller AVR ATmega328p
 - sensor BME280
-- nRF24L01+
+- radio module nRF24L01+
+
+## Electrical schematic diagrams
+
+### Base station
+
+![image](https://github.com/MachalKT/Electronic-system-for-measuring-temperature-and-humidity-with-radio-data-transmission/assets/86099181/d40969f0-55c2-4e5d-8c07-c7f500419e84)
+
+### Sensor
+
+![image](https://github.com/MachalKT/Electronic-system-for-measuring-temperature-and-humidity-with-radio-data-transmission/assets/86099181/a3b1e07f-2a00-4328-aa7b-46e7e9d3ef77)
+
