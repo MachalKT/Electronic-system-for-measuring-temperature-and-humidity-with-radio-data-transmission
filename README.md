@@ -29,5 +29,5 @@ Sensor:
 
 ### Sensor
 
-![image](https://github.com/MachalKT/Electronic-system-for-measuring-temperature-and-humidity-with-radio-data-transmission/assets/86099181/a3b1e07f-2a00-4328-aa7b-46e7e9d3ef77)
+![Sensor](https://github.com/MachalKT/Electronic-system-for-measuring-temperature-and-humidity-with-radio-data-transmission/assets/86099181/4bdedcf5-0a5a-4323-8f4c-56627c5b2650)
 
