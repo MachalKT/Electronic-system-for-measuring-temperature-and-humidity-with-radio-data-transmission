@@ -25,6 +25,8 @@ Sensor:
 ### Base station
 
 ![image](https://github.com/MachalKT/Electronic-system-for-measuring-temperature-and-humidity-with-radio-data-transmission/assets/86099181/d40969f0-55c2-4e5d-8c07-c7f500419e84)
+![Base station](https://github.com/MachalKT/Electronic-system-for-measuring-temperature-and-humidity-with-radio-data-transmission/assets/86099181/73c9525e-36b7-44c6-8c43-e3d3e52efaf6)
+
 
 ### Sensor
 
